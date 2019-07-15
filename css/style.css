@@ -1,8 +1,27 @@
+body {
+  background-color: #393E46;
+}
+
 h1 {
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  margin: 15px;
   text-align: center;
+  text-shadow: 5px 5px #000;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+  margin: 10px;
 }
 
 footer {
+  color: #fff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1rem;
   text-align: center;
 }
 
@@ -17,5 +36,6 @@ footer {
 }
 
 .dice {
-  text-align: center;
+  display: flex;
+  justify-content: space-around;
 }
