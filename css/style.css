@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.game-area {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-headings {
+  display: flex;
+  justify-content: space-around;
+}
+
+.dice {
+  text-align: center;
+}
